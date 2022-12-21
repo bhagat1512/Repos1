@@ -1,0 +1,6 @@
+*.net
+*.cpp
+*.py
+
+!important.py
+[aeiou]*.php
